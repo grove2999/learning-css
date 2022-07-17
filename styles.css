@@ -3,7 +3,7 @@ body {
 }
 
 p {
-    color: darkblue; 
+    color: darkblue; text-align: center; font-weight: bold;
 }
 
 h1 {
