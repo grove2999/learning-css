@@ -29,10 +29,14 @@ hr {
     margin-bottom: 25px;
 }
 
-a {
-    display: inline-block;
+div {
+    text-align: center;
 }
 
-div {
-    align: center;
+a {
+    display: inline-block;
+    width: 150px;
+    margin: auto;
 }
+
+
