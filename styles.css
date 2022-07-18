@@ -2,14 +2,13 @@ body {
     background-color: lightblue;
 }
 
-p {
-    color: darkblue; 
+p { 
     text-align: center; 
     font-weight: bold;
 }
 
 h1 {
-    color: darkmagenta; 
+    color: black; 
     text-align: center; 
     font-weight: bold; 
     font-family:'Times New Roman', Times, serif;
@@ -19,4 +18,21 @@ img {
     margin-left: auto;
     margin-right: auto;
     display: block;
+    margin-top: 30px;
+    margin-bottom: 30px; 
+}
+
+hr {
+    height: 6px; 
+    color: black;
+    background-color: black;
+    margin-bottom: 25px;
+}
+
+a {
+    display: inline-block;
+}
+
+div {
+    align: center;
 }
